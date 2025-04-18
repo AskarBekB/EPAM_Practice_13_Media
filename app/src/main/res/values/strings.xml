@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Media player</string>
+    <string name="play_audio">Play Audio</string>
+    <string name="play_video">Play Video</string>
+    <string name="file_path">File path</string>
+    <string name="play_pause">Play / Pause</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+</resources>
